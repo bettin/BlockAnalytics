@@ -1,0 +1,48 @@
+[
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "chartbeat.js"
+        },
+        "comment": "Chartbeat Analytics"
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "analytics.js"
+        },
+        "comment": "Google Aanlytics"
+ 
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "beacon.js"
+        },
+        "comment": "comScore Beacon"
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "gpt.js"
+        },
+        "comment": "Google Doubleclick"
+    },
+    {
+        "action": {
+            "type": "block"
+        },
+        "trigger": {
+            "url-filter": "twitter.com/widgets.js"
+        },
+        "comment": "Twitter Widgets"
+    }
+]
