@@ -27,4 +27,4 @@ Browse with Safari to a website with Google Doubleclick ads, and they won't disp
 
 ## To Do & Known Issues
 
-* The reloadContentBlockerWithIdentifier function is not working.
+* ~~The reloadContentBlockerWithIdentifier function is not working.~~ This was resolved with iOS 9 Beta 5.

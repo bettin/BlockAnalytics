@@ -19,3 +19,8 @@
 .settings
 nbproject
 thumbs.dby
+profile
+xcuserdata/
+xcuserdata/*
+*.xccheckout
+project.xcworkspace/
